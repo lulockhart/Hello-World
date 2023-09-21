@@ -3,8 +3,12 @@
 # KEY
 * [Project Title](#Project-Title)
 * [Description](#Description)
+* [How to run program](#How-to-run-program)
+* [Files used](#Files-used)
+* [Additional Documentation](#Additional_Documentation)
+* [Versioning](#Versioning)
 # Project Title
-# Descripition
+# Description
 # How to run program
 # Files used
 # Additional Documentation
