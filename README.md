@@ -4,7 +4,7 @@
 * [Project Title](#Project-Title)
 * [Description](#Description)
 # Project Title
-# Descrpition
+# Descripition
 # How to run program
 # Files used
 # Additional Documentation
