@@ -5,7 +5,7 @@
 * [Description](#Description)
 * [How to run program](#How-to-run-program)
 * [Files used](#Files-used)
-* [Additional Documentation](#Additional_Documentation)
+* [Additional Documentation](#Additional-Documentation)
 * [Versioning](#Versioning)
   
 # Project Title
