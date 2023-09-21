@@ -16,14 +16,12 @@
   
 ### How to run program
 ```
-{
 Hello_World/
 └── 
     │── README.md
     │── pgmname1.R
     │── filename1.csv
     │── examples.html
-}
 ```
 
 ### Files used
@@ -33,4 +31,5 @@ Hello_World/
 *no additional documentation at this time*
 
 ### Versioning
+*no additional versioning at this time*
 
