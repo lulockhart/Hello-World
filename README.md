@@ -2,13 +2,11 @@
 * Hello Everybody, and welcome to my GitHub Space. Git to know me!
 # KEY
 * [here](#Project_Title)
-* **Description**
-* **How to Run Program**
-* **How to Run Program**
-* **Files Used**
-* **Additional Documentation**
-* **Versioning**
-
+* [here](#Description)
+* [here](#How_to_run_program)
+* [here](#Files_used)
+* [here](#Additional_Documentation)
+* [here](#Versioning)
 # Project Title
 # Descrpition
 # How to run program
