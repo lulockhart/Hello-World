@@ -11,7 +11,7 @@
 
 # Project Title
 # Descrpition
-# HOW TO RUN PROGRAM
-# FILES USED
-# ADDITIONAL DOCUMENTATION
-# VERSIONING
+# How to run program
+# Files used
+# Additional Documentation
+# Versioning
