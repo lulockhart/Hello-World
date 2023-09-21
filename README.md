@@ -1,7 +1,7 @@
 # Hello-World
 * Hello Everybody, and welcome to my GitHub Space. Git to know me!
 # KEY
-* **PROJECT TITLE**
+* **Project Title**
 * **Description**
 * **How to Run Program**
 * **How to Run Program**
